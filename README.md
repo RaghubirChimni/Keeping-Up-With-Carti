@@ -1,7 +1,7 @@
 # Keeping Up With Carti
 Keeping Up With Carti is an organizational Android Mobile App that helps boost productivity.
-Created by Raghubir Chimni and Eric Wu
-Utilizes SQLite
+Created by Raghubir Chimni and Eric Wu.
+-Utilizes SQLite
 
 
 # Private Policy
